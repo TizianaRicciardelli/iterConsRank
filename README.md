@@ -1,6 +1,6 @@
 # iterConsRank 💻
 
-The purpose of this repository is leading us to publish a little paper about iter-ConsRank
+The purpose of this repository is leading us to publish about iter-ConsRank
 
 ## Authors
 
