@@ -3,7 +3,7 @@
 gfortran cut.f
 
 #to generate the CONTROL input file needed to run CONSRANK
-sh control-gen-MAT1.sh
+sh control-gen-MAT0.sh
 
 read line < cut #file containing a float number between 0-1, corresponding to the % models to keep to next iteration
 i=1 #flag for starting the iteration
